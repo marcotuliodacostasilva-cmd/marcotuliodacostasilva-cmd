@@ -24,7 +24,7 @@ Desenvolvedor Front-end focado em criar aplicações web modernas, responsivas e
 
 ## 🔗 Conecte-se Comigo
 
-* **LinkedIn:** [Marco Túlio Silva](www.linkedin.com/in/marcotúliosilva)
+* **LinkedIn:** [Marco Túlio Silva](https://www.linkedin.com/in/marcotúliosilva)
 * **E-mail:** [marcotuliodacostasilva@gmail.com](mailto:marcotuliodacostasilva@gmail.com)
 
 ---
