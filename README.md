@@ -15,7 +15,8 @@ Desenvolvedor Front-end focado em criar aplicações web modernas, responsivas e
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=marcotuliodacostasilva-cmd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=marcotuliodacostasilva-cmd&show_icons=true&theme=tokyonight" />
+  
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcotuliodacostasilva-cmd&layout=compact&theme=tokyonight" />
 </p>
 
