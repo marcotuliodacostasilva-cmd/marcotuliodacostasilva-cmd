@@ -28,6 +28,5 @@ Desenvolvedor Front-end focado em criar aplicações web modernas, responsivas e
 * **E-mail:** [marcotuliodacostasilva@gmail.com](mailto:marcotuliodacostasilva@gmail.com)
 
 ---
-*💬 "Coisas incríveis nunca são feitas por uma única pessoa. São feitas por um time." — Steve Jobs
-*
+💬 "Coisas incríveis nunca são feitas por uma única pessoa. São feitas por um time." — Steve Jobs
 
