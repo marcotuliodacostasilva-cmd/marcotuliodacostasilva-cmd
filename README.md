@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, Mundo! 👋 Sou o Marco Túlio
 
-<!--
-**marcotuliodacostasilva-cmd/marcotuliodacostasilva-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Front-end focado em criar aplicações web modernas, responsivas e centradas na experiência do usuário. Transformo ideias e designs em códigos limpos, performáticos e escaláveis.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack & Ferramentas
+
+* <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+* <img src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma">
+* <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcotuliodacostasilva-cmd)"> <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=marcotuliodacostasilva-cmd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcotuliodacostasilva-cmd&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔗 Conecte-se Comigo
+
+* **LinkedIn:** [Marco Túlio Silva](www.linkedin.com/in/marcotúliosilva)
+* **E-mail:** [marcotuliodacostasilva@gmail.com](mailto:marcotuliodacostasilva@gmail.com)
+
+---
+*💬 "Coisas incríveis nunca são feitas por uma única pessoa. São feitas por um time." — Steve Jobs
+*
+
